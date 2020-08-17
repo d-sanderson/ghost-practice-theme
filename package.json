@@ -1,0 +1,12 @@
+{
+  "name": "democarousel",
+  "version": "0.0.1",
+  "keywords": ["ghost-theme"],
+  "author": {
+      "name": "David Sanderson",
+      "email": "dsanderson@iteamnm.com"
+  },
+  "engines": {
+    "ghost-api": "v3"
+}
+}
